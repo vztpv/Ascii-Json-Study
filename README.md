@@ -4,5 +4,5 @@
 
 # Focused on Parallel Scanning and Parsing ( using simd and thread and memory pool )
 
-# Ascii(7byte) -> ANSI(windows)? or utf-8(linux)?
+# Ascii(7byte) -> unicode
 "\u0000" ~ "\uFFFF"
